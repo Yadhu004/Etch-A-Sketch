@@ -1,1 +1,2 @@
 # Etch-A-Sketch
+This project allows you to draw a pixelated image in a square grid of a size entered by the user. This project helped me build javascript concepts and apply them. I could understand topics like Event listeners in much more depth. 
